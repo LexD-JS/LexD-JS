@@ -3,6 +3,9 @@
 - 🌱 I am currently learning Javascript, aspiring web developer.
 - 💞️ I am looking to collaborate with a company in which I can grow professionally and continue learning every day.
 - 📫 You can contact me at: alexdiazortega21@gmail.com
+[diploma-git-github.pdf](https://github.com/LexD-JS/LexD-JS/files/8874993/diploma-git-github.pdf)
+
+
 
 <!---
 LexD-JS/LexD-JS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
